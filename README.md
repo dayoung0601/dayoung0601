@@ -7,11 +7,11 @@
 </a></p>
 
 <h3 align="center"> Interest </h2>
-<p align="center">Interested in data visualization and user experience.</p> 
+<p align="center">Interested in Data Visualization and User Experience.</p> 
 
 
 <h3 align="center"> Strength </h2>
-<p align="center">Like learning something new.<br/>Work experience as a UX/UI designer</p> 
+<p align="center">Like Learning something new.<br/>Work Experience as a UX/UI Designer</p> 
 
     
 <div align="center" style="display:flex">
