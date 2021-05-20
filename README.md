@@ -41,7 +41,8 @@
 <br/>
   
 <h3> - Design Software Programs - </h3>
-<img src="https://simpleicons.org/icons/adobeillustrator.svg"/>
+<img src="https://simpleicons.org/icons/adobeillustrator.svg" 
+     style="width:30px;  margin-left:10px; margin-right:10px; color:ff9a00;"/>
 
   
 </div>
