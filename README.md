@@ -57,7 +57,7 @@
 <a href="https://0sae.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="size : 20px; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 20px; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
 <p align="center">
