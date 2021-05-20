@@ -1,10 +1,6 @@
 
 <h2 align="center"> ✋ This is Me 🤚 </h2>
-<p align="center"><a href="https://velog.io/@mygomi">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
+
 
 <h3 align="center"> Interest </h2>
 <p align="center">Interested in Data Visualization and User Experience.</p> 
@@ -44,8 +40,8 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <br/>
   
-<h3> - Design software - </h3>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<h3> - Design Software Programs - </h3>
+<img src="https://simpleicons.org/icons/adobeillustrator.svg"/>
 
   
 </div>
@@ -55,6 +51,13 @@
 <br/>
 
 <h2 align="center"> Contact </h2>
+
+<p align="center">
+<a href="https://0sae.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></p>
 
 <p align="center">
 <a href="mailto:dayoung0601@gmail.com">
