@@ -43,6 +43,8 @@
 <h3> - Design Software Programs - </h3>
 <img src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00" 
      style="height:auto;  margin-left:10px; margin-right:10px; "/>
+    <img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobeillustrator.svg-Adobe%20Illustrator-%23FF9A00" 
+     style="height:auto;  margin-left:10px; margin-right:10px; "/>
 
   
 </div>
