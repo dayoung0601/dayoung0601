@@ -39,10 +39,10 @@
 <br/>
   
 <h3> - Design Software Programs - </h3>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Ffigma.svg-Figma-%23F24E1E"/>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobexd.svg-Adobe%20XD-%23FF61F6"/>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobeillustrator.svg-Adobe%20Illustrator-%23FF9A00"/>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobephotoshop.svg-Adobe%20Photoshop-%2331A8FF"/>
+<img src="https://img.shields.io/badge/Figma-%23F24E1E"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF"/>
 
 
 
