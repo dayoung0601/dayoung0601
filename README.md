@@ -9,25 +9,6 @@
 <h3 align="center"> Strength </h2>
 <p align="center">Like Learning something new.<br/>Work Experience as a UX/UI Designer</p> 
 
-
-on:
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-    
     
     
 <br/>
