@@ -9,7 +9,7 @@
 <h3 align="center"> Strength </h2>
 <p align="center">Like Learning something new.<br/>Work Experience as a UX/UI Designer</p> 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayoung0601&theme=solarized)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayoung0601&theme=solarized) -->
     
 <br/>
 <h2 align="center"> Tech Stack </h2>
@@ -27,11 +27,11 @@
     <br/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>    
-     <img src="https://img.shields.io/badge/TypeScript-FFA9A00?style=flat-square&logo=TypeScript&logoColor=white"/>
+     
 <br/>
          
 <h3> - I've used at least once - </h3>
-    
+<img src="https://img.shields.io/badge/TypeScript-FFA9A00?style=flat-square&logo=TypeScript&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
@@ -39,7 +39,11 @@
 <br/>
   
 <h3> - Design Software Programs - </h3>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Ffigma.svg-Figma-%23F24E1E"/>
+<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobexd.svg-Adobe%20XD-%23FF61F6"/>
+<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobeillustrator.svg-Adobe%20Illustrator-%23FF9A00"/>
+<img src="https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.org%2Ficons%2Fadobephotoshop.svg-Adobe%20Photoshop-%2331A8FF"/>
+
 
 
   
