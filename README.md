@@ -1,5 +1,5 @@
 
-<h2 align="center"> This is Me </h2>
+<h2 align="center"> Thank you for visiting! :) </h2>
 
 
 <h3 align="center"> Interest </h2>
