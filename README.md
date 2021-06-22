@@ -1,10 +1,11 @@
 
 <h2 align="center"> Thank you for visiting! :) </h2>
 
+<h3 align="center"> Hi, there </h2>
+<p align="center">I'm Dayoung Kim, currently studying React.js.</p> 
 
 <h3 align="center"> Interest </h2>
 <p align="center">Interested in Data Visualization and User Experience.</p> 
-
 
 <h3 align="center"> Strength </h2>
 <p align="center">Like Learning something new.<br/>Work Experience as a UX/UI Designer</p> 
