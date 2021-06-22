@@ -61,13 +61,11 @@
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : 20px; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
-
-<p align="center">
+</a>
 <a href="mailto:dayoung0601@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
-
+</a>
+</p>
 <br/>
