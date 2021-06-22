@@ -1,5 +1,5 @@
 
-<div align="right"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreedysiru&count_bg=%233D91C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com" style="display: flex"/></div>
+<div align="right"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayoung0601&count_bg=%233D91C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com" style="display: flex"/></div>
 
 <h2> Thank you for visiting! :) </h2>
 
@@ -51,8 +51,8 @@
 <h2> Github </h2>
 <div>
   <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
+	<img src="https://github-readme-stats.vercel.app/api?username=dayoung0601&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoung0601&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
   </div>
 </div>
 
