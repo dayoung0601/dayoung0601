@@ -1,21 +1,23 @@
 
-<h2 align="center"> Thank you for visiting! :) </h2>
+<div align="right"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreedysiru&count_bg=%233D91C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com" style="display: flex"/></div>
 
-<h3 align="center"> Hi, there </h2>
-<p align="center">I'm Dayoung Kim, currently studying React.js.</p> 
+<h2> Thank you for visiting! :) </h2>
 
-<h3 align="center"> Interest </h2>
-<p align="center">Interested in Data Visualization and User Experience.</p> 
+<h3> Hi, there </h2>
+<p>I'm Dayoung Kim, currently studying React.js.</p> 
 
-<h3 align="center"> Strength </h2>
-<p align="center">Like Learning something new.<br/>Work Experience as a UX/UI Designer</p> 
+<h3> Interest </h2>
+<p>Interested in Data Visualization and User Experience.</p> 
+
+<h3> Strength </h2>
+<p>Like Learning something new.<br/>Work Experience as a UX/UI Designer</p> 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayoung0601&theme=solarized) -->
     
 <br/>
-<h2 align="center"> Tech Stack </h2>
+<h2> Tech Stack </h2>
 
-<div align="center" style="display:flex">
+<div style="display:flex">
      <h3> - Mainly used - </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -45,18 +47,23 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF"/>
 
-
-
-  
 </div>
 
 <br/>
 
+<h2> Github </h2>
+<div>
+  <div align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
+  </div>
+</div>
+
 <br/>
+<h2> Contact </h2>
 
-<h2 align="center"> Contact </h2>
 
-<p align="center">
+<p>
 <a href="https://0sae.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
