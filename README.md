@@ -1,4 +1,4 @@
-<h3> Thank you for visiting! :) </h3>
+<h2> Thank you for visiting! :) </h2>
 <p>I'm Dayoung Kim, currently studying React.js.</p> 
 
 <h3> Interest </h2>
