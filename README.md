@@ -30,8 +30,11 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <br/>
   
-<h3> - ETC - </h3>
+<h3> - Design Software Programs - </h3>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF"/>
 
 </div>
 
